@@ -127,3 +127,35 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+drl/pyvenv.cfg
+drl/Scripts/activate
+drl/Scripts/activate.bat
+drl/Scripts/Activate.ps1
+drl/Scripts/chardetect.exe
+drl/Scripts/deactivate.bat
+drl/Scripts/easy_install-3.9.exe
+drl/Scripts/easy_install.exe
+drl/Scripts/f2py.exe
+drl/Scripts/iptest.exe
+drl/Scripts/iptest3.exe
+drl/Scripts/ipython.exe
+drl/Scripts/ipython3.exe
+drl/Scripts/jupyter-kernel.exe
+drl/Scripts/jupyter-kernelspec.exe
+drl/Scripts/jupyter-migrate.exe
+drl/Scripts/jupyter-run.exe
+drl/Scripts/jupyter-troubleshoot.exe
+drl/Scripts/jupyter.exe
+drl/Scripts/pip.exe
+drl/Scripts/pip3.9.exe
+drl/Scripts/pip3.exe
+drl/Scripts/pygmentize.exe
+drl/Scripts/python.exe
+drl/Scripts/pythonw.exe
+drl/Scripts/pywin32_postinstall.py
+drl/Scripts/pywin32_testall.py
+drl/share/jupyter/kernels/python3/kernel.json
+drl/share/jupyter/kernels/python3/logo-32x32.png
+drl/share/jupyter/kernels/python3/logo-64x64.png
+drl/share/man/man1/ipython.1.gz
+monte-carlo/images/optimal.png
